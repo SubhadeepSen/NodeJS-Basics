@@ -1,0 +1,17 @@
+{
+  "name": "dependency-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jshint": "^2.10.1",
+    "underscore": "^1.9.1"
+  }
+}
